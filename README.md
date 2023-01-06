@@ -9,16 +9,16 @@
 **Scenario**<br>
 You are working in an e-commerce company and single handedly responsible with a merchant service that handles the catalog of products owned by merchants
 
-**Objective**
+**Objective**<br>
 You need to make from scratch according to the requirements
 
-**Context**
+**Context**<br>
 - For the MVP, the requirements of merchant service are defined below
 - The user is a merchant
 
 **Requirements**
 
-**Milestone 1**
+**Milestone 1**<br>
 ●	A merchant service should be written with Node.js and using MySQL DB as a persistent storage
 ●	A merchant service will expose several APIs with these functions
   ○	A merchant could register itself/create an account in the merchant service
@@ -43,17 +43,17 @@ You need to make from scratch according to the requirements
     -	price (required, min: 10000, numeric)
 ●	Commit the working code to git
 
-**Milestone 2**
+**Milestone 2**<br>
 ●	Add a /login api to authenticate user
 ●	Authentication using Basic Auth (username and password)
 ●	Commit the working code to git
 
-**Milestone 3**
+**Milestone 3**<br>
 ●	Add JWT authorization as access_token to access resources after user logged in
 ●	JWT is passed in Auth header as Bearer token
 ●	Commit the working code to git
 
-**What and How To Submit**
+**What and How To Submit**<br>
 ●	Create a doc written with markdown (md) format that explains
   ○	A simple architecture diagram of the merchant service
   ○	An Entity Relational Diagram of the merchant service data model
