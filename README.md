@@ -6,7 +6,7 @@
 2.	Types: Hands-on
 3.	Topics covered: Node.js, API, DB
 
-**Scenario**
+**Scenario**<br>
 You are working in an e-commerce company and single handedly responsible with a merchant service that handles the catalog of products owned by merchants
 
 **Objective**
